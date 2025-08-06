@@ -10,3 +10,4 @@ scipy
 plotly
 xlrd
 openpyxl
+pyarrow

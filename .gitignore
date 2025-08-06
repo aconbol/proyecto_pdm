@@ -186,3 +186,7 @@ data/processed/
 data/external/
 models/
 artifacts/ 
+
+
+.claude/
+copias/
